@@ -20,4 +20,5 @@ El juego de Conecta 4 es un clásico donde dos jugadores se turnan para dejar fi
 - **HTML**: Estructura base del proyecto.
 - **Tailwind CSS**: Framework CSS utilizado para la estilización rápida.
 
-## Deployado en:
+## Deployado
+- Netlify: https://juego-conecta4.netlify.app
